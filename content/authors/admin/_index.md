@@ -4,11 +4,6 @@ affiliation:
 email: ""
 highlight_name: false
 interests:
-- Macroeconomics
-- Financial Economics
-- Consumption
-- Labor Economics
-- Decisions under Uncertainty
 organizations:
 - name: University of St.Gallen
   url: https://www.unisg.ch/en
@@ -37,11 +32,6 @@ social:
 superuser: true
 title: Winfried Koeniger
 ---
-
-Co-Head of the Swiss Institute of Empirical Economic Research at the University of St. Gallen,
-Research Fellow of several networks and Member of the German Academy of Science Leopoldina
-
-Co-Head of the Swiss Institute of Empirical Economic Research at the University of St. Gallen,
-Research Fellow of several networks and Member of the German Academy of Science Leopoldina
+Winfried Koeniger is Professor of Economics and Co-Head of the Swiss Institute of Empirical Economic Research at the University of St.Gallen. He is research fellow at CESifo, the Center for Financial Studies, IZA, and faculty member of the Swiss Finance Institute. His research interests include macroeconomics, financial economics, consumption and savings decisions, and labor markets.
 
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/wk_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
